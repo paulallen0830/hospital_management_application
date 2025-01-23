@@ -1,0 +1,5 @@
+# Bytecode files
+*.class
+
+# MySQL connector
+mysqlconnector.jar
